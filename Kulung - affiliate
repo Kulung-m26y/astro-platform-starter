@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kulung Affiliate Hub</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 500px;
+      width: 100%;
+      background: white;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      font-size: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    .btn {
+      display: block;
+      background-color: #0073e6;
+      color: white;
+      padding: 0.75rem 1rem;
+      margin: 0.5rem 0;
+      border: none;
+      border-radius: 0.5rem;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .btn:hover {
+      background-color: #005bb5;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Kulung</h1>
+    <p>Welcome to Kulung — your one-stop hub for curated Amazon finds, creator content, and more. Stay tuned!</p><a href="https://www.instagram.com/ootibar7" class="btn" target="_blank">Follow on Instagram</a>
+<a href="https://youtube.com/@bit-kl07mj" class="btn" target="_blank">Subscribe on YouTube</a>
+
+<hr style="margin: 2rem 0;">
+<p><strong>Amazon Picks Coming Soon</strong></p>
+<a href="#" class="btn">Visit Our Amazon Store</a>
+
+  </div>
+</body>
+</html>
